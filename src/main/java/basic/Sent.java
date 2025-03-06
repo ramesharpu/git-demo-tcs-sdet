@@ -1,9 +1,9 @@
 package basic;
 
-public class Inbox {
+public class Sent {
 
 	public static void main(String[] args) {
-		System.out.println("hello from inbox");
+		System.out.println("hello from sent");
 
 	}
 
